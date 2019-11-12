@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1,FOX
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_f998c8378671ce69a58ac4f48d50aaca26a2be19/playlist.m3u8
+#EXTINF:-1,FOX HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_f998c8378671ce69a58ac4f48d50aaca26a2be19/playlist.m3u8
